@@ -1,0 +1,34 @@
+
+body{
+  background: -webkit-linear-gradient(left, #6196db, #78d4ee); 
+  }
+#TasksTable{
+position: absolute;
+margin-top: 2%;
+margin-left: 2.5%;
+width: 95%;
+height: auto;
+background-color: rgb(196, 239, 245);
+}
+
+table, th, td {
+  border: 2px solid black;
+  border-collapse: collapse;
+}
+th, td {
+  padding: 12px;
+  text-align: left;    
+}
+#Delete{
+float:right;
+color:red;
+}
+
+#btnToRight{
+float:right;
+}
+
+#Dur{
+float:right;
+text-decoration: underline;
+}

@@ -1,0 +1,29 @@
+
+#btnManage{
+margin-left: 1%;
+padding: 10px 10px;
+}
+
+#Add{
+color:rgb(35, 2, 56);
+}
+
+#Edit{
+color:rgb(35, 2, 56);
+}
+
+#Delete{
+color:red;
+}
+
+#btnHome{
+margin-left: 3%;
+padding: 10px 60px;
+}
+
+#Header{
+font-size: x-large;
+font-weight: 1000;
+color: rgb(0, 0, 0);
+}
+

@@ -1,0 +1,63 @@
+
+#pageform{
+position: absolute;
+border: 3px solid;
+background-color: lightgray;
+opacity: 0.7;
+margin-top: 35px;
+margin-left: 30px;
+width: 60%;
+height: 30%;
+}
+#lbl1{
+position: absolute;
+margin-top: 45px;
+margin-left: 40px;
+font-size: x-large;
+font-weight: 500;
+}
+
+#lbl2{
+    position: absolute;
+    margin-top: 120px;
+    margin-left: 40px;
+    font-size: x-large;
+    font-weight: 500;
+}
+
+#Submit{
+    position: absolute;
+    margin-top: 115px;
+    margin-left: 85%;
+    padding: 0px 15px;
+    background-color: lightseagreen;
+    font-size: 24px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+    }
+      
+  #Submit:hover {background-color: #3e8e41}
+  
+  #Submit:active {
+    background-color: #3e8e41;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
+
+#tname{
+position: absolute;
+margin-left: 200px;
+margin-top: 47px;
+width: 400px;
+}
+
+#des{
+    position: absolute;
+    margin-left: 200px;
+    margin-top: 122px;
+    width: 400px;
+    }
